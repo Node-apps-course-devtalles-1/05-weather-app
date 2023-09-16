@@ -43,7 +43,9 @@
 
 ```
 
-__dotenv__
+## Modules
+
+__dotenv__\
 __axios__\
 __colors__\
 __dotenv__\
